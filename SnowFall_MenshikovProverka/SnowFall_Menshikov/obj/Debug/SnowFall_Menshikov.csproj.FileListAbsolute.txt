@@ -1,0 +1,11 @@
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\bin\Debug\SnowFall_Menshikov.exe.config
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\bin\Debug\SnowFall_Menshikov.exe
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\bin\Debug\SnowFall_Menshikov.pdb
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\obj\Debug\SnowFall_Menshikov.csproj.AssemblyReference.cache
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\obj\Debug\SnowFall_Menshikov.csproj.SuggestedBindingRedirects.cache
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\obj\Debug\SnowFall_Menshikov.Form1.resources
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\obj\Debug\SnowFall_Menshikov.Properties.Resources.resources
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\obj\Debug\SnowFall_Menshikov.csproj.GenerateResource.cache
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\obj\Debug\SnowFall_Menshikov.csproj.CoreCompileInputs.cache
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\obj\Debug\SnowFall_Menshikov.exe
+D:\Перенос на другой ПК\Курсы С#\SnowFall_Menshikov\SnowFall_Menshikov\obj\Debug\SnowFall_Menshikov.pdb
